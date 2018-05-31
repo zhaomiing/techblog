@@ -1,1 +1,1 @@
-# techblog
+issues as blog :)
